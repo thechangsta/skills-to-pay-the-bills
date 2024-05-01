@@ -1,5 +1,8 @@
 Harsh Shah,  Matthew Chang,  Meetansh Gupta,  Tanay Patankar
 
+Link to our video: [here](https://youtu.be/mjT-HmlTLNA)
+
+Link to our GitHub Repository: [here](https://github.com/thechangsta/skills-to-pay-the-bills)
 
 ## Motivation
 
