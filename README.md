@@ -19,6 +19,7 @@ In order to recommend skills for upskilling, we go through the top 10000 most si
 1. Result for query "python, linux, c++"
 2. something for nursing? like stamina, compassion, patience, memory
 3. idk some managerial position?
+4. new
 
 ## Analysis
 While recommending skills for upskilling, we realized that different ranges of top-k results gave different type of results. With k=100, we got more technical skills recommended to us. However, with a larger value of k=10000, we got skills that were more general and could be applied to a variety of jobs.
