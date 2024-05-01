@@ -6,6 +6,9 @@ Harsh Shah  Matthew Chang  Meetansh Gupta  Tanay Patankar
 This project aims to help job seekers, whether they are new graduates, or have a few years of experience under their belt, to find jobs suited to their skill set. It is tough to find a job that accurately matches the skills that you have. Our project aims to make this easier by recommending jobs that best suit your skills. We also go one step further and suggest some skills that you can pick up in order to be a better match for jobs in your domain. We hope that with this application, we can increase the chances of a jobseeker getting a job that suits them.
 
 ## Implementation
+
+![implementation](https://github.com/thechangsta/skills-to-pay-the-bills/assets/65629932/e3e579da-139c-436e-b134-b9634bd79f83)
+
 We used a [dataset](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024) of 1.3 million job titles and skills scraped from LinkedIn. From this, we processed the job titles and the skills each one needed.
 
 Then, we acquired BERT embeddings of each job's skills. The skills were formatted into a CSV and was used to get the embeddings. While it is known that GPT embeddings would be better for representing the data, it is slow and more expensive to use. Given the scope of our project, we decided to use BERT embeddings.
