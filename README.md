@@ -22,7 +22,8 @@ In order to recommend skills for upskilling, we go through the top 10000 most si
 2. Query: content writing, graphic designing, adobe photoshop
 ![image](https://github.com/thechangsta/skills-to-pay-the-bills/assets/73650782/e9ddd0fa-51ae-4d9f-be54-58aa91cc7e53)
 
-
+3. Query: CPR, intubation, cancer detection, surgery, appendectomy
+![image](https://github.com/thechangsta/skills-to-pay-the-bills/assets/73650782/c819bdf4-9dca-4f03-b48f-0f822181722d)
 
 
 ## Analysis
