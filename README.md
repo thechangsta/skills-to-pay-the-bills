@@ -16,10 +16,14 @@ In order to recommend skills for upskilling, we go through the top 10000 most si
 
 ## Results
 
-1. Result for query "python, linux, c++"
-2. something for nursing? like stamina, compassion, patience, memory
-3. idk some managerial position?
-4. new
+1. Query: python, linux, management
+![image](https://github.com/thechangsta/skills-to-pay-the-bills/assets/73650782/81a1d36a-960b-4a36-b13d-e4d6f53cbac1)
+
+2. Query: content writing, graphic designing, adobe photoshop
+![image](https://github.com/thechangsta/skills-to-pay-the-bills/assets/73650782/e9ddd0fa-51ae-4d9f-be54-58aa91cc7e53)
+
+
+
 
 ## Analysis
 While recommending skills for upskilling, we realized that different ranges of top-k results gave different type of results. With k=100, we got more technical skills recommended to us. However, with a larger value of k=10000, we got skills that were more general and could be applied to a variety of jobs.
