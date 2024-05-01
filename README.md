@@ -1,4 +1,4 @@
-Harsh Shah  Matthew Chang  Meetansh Gupta  Tanay Patankar
+Harsh Shah,  Matthew Chang,  Meetansh Gupta,  Tanay Patankar
 
 
 ## Motivation
